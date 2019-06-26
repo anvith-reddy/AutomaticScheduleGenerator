@@ -1,2 +1,4 @@
-# Automatic-Time-Table-Generator
-A web application that is capable of Creating, Modifying, Updating, Generating timetables automatically based on Given data using Greedy Methods. Written in Html, Bootstrap, Php, Sql
+About this Project:
+
+Introduction:
+This is designed to auto generate schedules on a button click.
